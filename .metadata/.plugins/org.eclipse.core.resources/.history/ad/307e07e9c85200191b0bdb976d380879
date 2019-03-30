@@ -1,0 +1,18 @@
+package child_class;
+
+import parent_class.Duck;
+
+public class MallardDuck extends Duck {
+
+	public MallardDuck() {
+		// TODO Auto-generated constructor stub
+		super(new Quack(), new FlyWithWings());
+	}
+	
+	@Override
+	public void display() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

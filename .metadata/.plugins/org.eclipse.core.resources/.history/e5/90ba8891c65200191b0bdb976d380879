@@ -1,0 +1,5 @@
+package parent_class;
+
+public abstract class Duck {
+	
+}
