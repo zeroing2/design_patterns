@@ -1,7 +1,0 @@
-package behavior_class;
-
-import behavior_interface.FlyBehavior;
-
-public class FlyWithWings implements FlyBehavior {
-	
-}

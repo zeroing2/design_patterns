@@ -1,7 +1,0 @@
-package parent_class;
-
-import behavior_interface.FlyBehavior;
-
-public abstract class Duck {
-	FlyBehavior flyBehavior;
-}

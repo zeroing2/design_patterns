@@ -1,7 +1,0 @@
-package child_class;
-
-import parent_class.Duck;
-
-public class MallardDuck extends Duck {
-	
-}
